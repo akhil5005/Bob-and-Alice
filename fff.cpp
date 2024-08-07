@@ -22,7 +22,7 @@ int main(){
         }
 
         int R = n;
-        int L = 1;
+        int L = 1;gygy
 
         // if(n==1){
         //     int ans = (n*a) - (pf[1]*diff[1]);
